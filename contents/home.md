@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/Tong0717-github-blue?logo=github)](https://github.com/Tong0717)
 
 I'm an undergraduate student in Intelligent Sports Engineering at Zhejiang University (2023–2027).
 
